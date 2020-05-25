@@ -153,7 +153,7 @@ Explanation of account types:
 * **Payable**: The account type represents the amount owed by a company to its creditors (Suppliers).
 * **Receivable**: The account type represents the amount owed to a company by its debtors (Customers).
 * **Round Off**: In many Invoices there can be some [rounding off](/docs/user/manual/en/accounts/articles/round-off-account-validation) in the final amount. For accurate tracking, those amounts can be booked to accounts of this type.
-* **Stock**: The account group under which [Warehouse accounts](/docs/user/manual/en/accounts/articles/round-off-account-validation) will be created. 
+* **Stock**: The account group under which [Warehouse accounts](/docs.erpnext.com/docs/user/manual/en/stock/warehouse#22-warehouse-account) will be created. 
 * **Stock Adjustment**: An expense account to book any adjustment entry of stock/inventory. Generally comes at the same level of Cost of Goods Sold.
 * **Stock Received But Not Billed**: A temporary liability account which holds the value of stock received but not billed yet and used in Perpetual Inventory.
 * **Tax**: All tax accounts like VAT, TDS, GST, etc. come under this type.
